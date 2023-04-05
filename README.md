@@ -52,6 +52,9 @@ Para concluir aprendimos la diferencia en las configuraciones e implementacions 
 
 #### Bitacora
 Se adjuntan evidencias donde se muestran las diferentes reuniones en equipo para desarrollar el laboratorio:
+La primer semana nos reunimos para leer los requerimientos del laboratorio y realizar la configuracion basica.
+La segunda semana realizamos una correccion en las configuraciones y finalmente del jueves 30 de marzo hasta el sabado 1 de abril terminamos de configurar y finalmente el 2 y 3 abril realizamos la documentacion.
+
 ![image](https://user-images.githubusercontent.com/93561095/229905509-b05694b7-51a2-4815-84f8-9cd98ee9a269.png)
 ![image](https://user-images.githubusercontent.com/93561095/229905582-3d1dd659-d5ec-48c6-870e-73cfc27b7f05.png)
 
